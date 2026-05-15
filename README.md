@@ -1,4 +1,5 @@
 # Twitter (X) Clone - Tailwind CSS
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-View_Website-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://x-clone-qvfh.vercel.app/)
 
 A responsive and visually accurate clone of the Twitter (X) interface built using **Tailwind CSS**.
 This project demonstrates modern UI design, layout structuring, and mobile-first responsiveness.
